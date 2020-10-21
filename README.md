@@ -4,7 +4,7 @@
 ### 环境配置
 - 此处选择使用WSL(`Windows SubSystem for Linux`)
   - 本人是安装 `docker` 自动装的wsl
-  - 可以参考 $\rightarrow$ [这个](https://docs.microsoft.com/en-us/windows/wsl/install-win10) $\leftarrow$
+  - 可以参考 [这个](https://docs.microsoft.com/en-us/windows/wsl/install-win10) 
     - 装完`wsl`之后，在应用商城下载`ubuntu20.04`
     - 打开`ubuntu20.04` 配置信息
   - 如何使用？：
